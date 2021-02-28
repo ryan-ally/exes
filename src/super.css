@@ -1,0 +1,176 @@
+h1 {
+    color: rgb(25, 0, 255);
+    border-radius: 175px;
+    background: linear-gradient(90deg, #4e067e, #160a11c7);
+    opacity: 90%;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+    width: 80%;
+    border-top: 2px solid rgb(151, 14, 37);
+    align-items: center;
+    align-content: center;
+    position: center;
+    justify-content: center;
+    margin-left: 45px;
+    margin-right: 0px;
+}
+
+a:link {
+    font-size: 0.7em;
+    color: rgb(7, 3, 214);
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+    margin: 3px;
+}
+
+a:visited {
+    color: rgb(49, 154, 253);
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+    background-color: #85026477;
+}
+
+a:hover {
+    color: rgb(220, 149, 241);
+    background: linear-gradient(to right, #64012ab6, #130202af);
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+}
+
+a:active {
+    color: rgb(247, 238, 238);
+    background-color: rgba(14, 15, 15, 0.555);
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+}
+
+p {
+    background: linear-gradient(90deg, #160d11d7, #60048baf);
+    border-top: 2px solid pink;
+    color: rgb(0, 140, 255);
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+    opacity: 85%;
+    text-decoration: none;
+    width: 100%;
+    font-size: 1em;
+}
+
+body {
+    font-family: "Open Sans", serif;
+    background: linear-gradient(to right, #72056dc0, #05051483);
+    height: 100%;
+    width: 100%;
+    align-content: center;
+    text-align: center;
+}
+
+.App-qq,
+.App-li,
+.App-ap,
+.App-pp,
+.App-tw,
+.App-uu,
+.App-oo,
+.App-fr,
+.App-vc,
+.App-up,
+.App-nb,
+.App-yq,
+.App-lo,
+.App-up,
+.App-rt,
+.App-po,
+.App-logo {
+    height: 100%;
+    width: 100%;
+    border: 1px solid pink;
+    align-content: center;
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+    background: linear-gradient(to right, #64014fb6, #081101af);
+}
+
+button {
+    box-shadow: 1px 2px 1px;
+    border: 2px solid rgba(73, 9, 223, 0.856);
+    border-radius: 195px;
+    -moz-border-radius: 190px;
+    -webkit-border-radius: 50px;
+    color: rgb(0, 204, 255);
+    background: linear-gradient(90deg, #080506c4, #7d0781d3);
+}
+
+.NavLink {
+    background: linear-gradient(to right, #070204a1, #0d18adaf);
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+}
+
+#quote {
+    margin-left: 0px;
+    margin-top: 50px;
+    width: 100%;
+    color: rgb(159, 248, 199);
+    background: linear-gradient(90deg, #4b020ef6, #131207cb);
+    text-align: center;
+    border-radius: 10px;
+    -moz-border-radius: 16px;
+    -webkit-border-radius: 70px;
+    hyphens: auto;
+    font-size: .8em;
+    height: 100%;
+}
+
+#author {
+    width: 100%;
+    color: rgba(12, 168, 147, 0.925);
+    font-size: 1.1em;
+    background: linear-gradient(to right, #0c0508ef, #38013f);
+    text-align: center;
+    border-top: 1px solid rgb(161, 54, 72);
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+}
+
+.foot {
+    color: rgb(12, 116, 219);
+    background: linear-gradient(to right, #3d0572c0, #0b090fd0);
+    align-content: center;
+    justify-content: center;
+    border-top: 2px solid rgba(9, 90, 240, 0.534);
+    border-radius: 200px;
+    -moz-border-radius: 200px;
+    -webkit-border-radius: 200px;
+}
+
+.nav {
+    justify-content: center;
+    padding: 0px 0px;
+    margin: 2px 2px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 1em;
+    cursor: pointer;
+    background: linear-gradient(to left, #64012aa1, #0b0c0a49);
+    border-radius: 200px;
+    -moz-border-radius: 200px;
+    -webkit-border-radius: 200px;
+    color: rgb(243, 237, 238);
+    font-weight: 100;
+    display: inline-flex;
+    margin-right: 0px 8px;
+    width: 56%;
+}
+
+.LikeButton {
+    width: 90%;
+}
